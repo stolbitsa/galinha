@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>galinha</repo>
-  <version>v1.0.0</version>
+  <version>v1.0.1</version>
   <next number="1" owner="stolbitsa" repo="inca-roads-1"/>
   <readme>
     <ru>5ee26ab8b9c17e9e56853fedd0da86a93a3acc419065c79e1969cb62ae02c637</ru>
@@ -16,15 +16,15 @@
     <tonalities>1</tonalities>
     <video name="15-wellerman-galinha-1.mp4" size="1863725" type="video/mp4" volume="1">e34095577e6c1606e93784c2352a1a5dd878a9ad93648e5acd10e6a2f3ad6da7</video>
     <notes>
-      <note number="1" values="87" ticks="336" durationTicks="48" ppq="96" velocity="0.832"/>
-      <note number="2" values="1" ticks="385" durationTicks="34" ppq="96" velocity="0.884"/>
-      <note number="3" values="1" ticks="431" durationTicks="15" ppq="96" velocity="0.717"/>
-      <note number="4" values="1" ticks="455" durationTicks="13" ppq="96" velocity="0.759"/>
-      <note number="5" values="1" ticks="482" durationTicks="39" ppq="96" velocity="0.719"/>
-      <note number="6" values="3" ticks="528" durationTicks="45" ppq="96" velocity="0.819"/>
-      <note number="7" values="5" ticks="576" durationTicks="35" ppq="96" velocity="0.844"/>
-      <note number="8" values="5" ticks="624" durationTicks="38" ppq="96" velocity="0.852"/>
-      <note number="9" values="5" ticks="673" durationTicks="46" ppq="96" velocity="0.844"/>
+      <note number="1" values="87" ticks="372" durationTicks="48" ppq="96" velocity="0.832"/>
+      <note number="2" values="1" ticks="421" durationTicks="34" ppq="96" velocity="0.884"/>
+      <note number="3" values="1" ticks="467" durationTicks="15" ppq="96" velocity="0.717"/>
+      <note number="4" values="1" ticks="491" durationTicks="13" ppq="96" velocity="0.759"/>
+      <note number="5" values="1" ticks="518" durationTicks="39" ppq="96" velocity="0.719"/>
+      <note number="6" values="3" ticks="564" durationTicks="45" ppq="96" velocity="0.819"/>
+      <note number="7" values="5" ticks="612" durationTicks="35" ppq="96" velocity="0.844"/>
+      <note number="8" values="5" ticks="660" durationTicks="38" ppq="96" velocity="0.852"/>
+      <note number="9" values="5" ticks="709" durationTicks="46" ppq="96" velocity="0.844"/>
     </notes>
   </exercise>
   <exercise number="2">
@@ -34,17 +34,17 @@
     <tonalities>1</tonalities>
     <video name="15-wellerman-galinha-2.mp4" size="1823554" type="video/mp4" volume="1">70f0715a89a22fd6c544a3d05890579368d5305da6fa25dfde5b3a1a1dcb7454</video>
     <notes>
-      <note number="1" values="5" ticks="95" durationTicks="46" ppq="96" velocity="0.832"/>
-      <note number="2" values="6" ticks="144" durationTicks="45" ppq="96" velocity="0.847"/>
-      <note number="3" values="4" ticks="192" durationTicks="14" ppq="96" velocity="0.802"/>
-      <note number="4" values="4" ticks="214" durationTicks="13" ppq="96" velocity="0.814"/>
-      <note number="5" values="4" ticks="240" durationTicks="37" ppq="96" velocity="0.837"/>
-      <note number="6" values="6" ticks="288" durationTicks="19" ppq="96" velocity="0.757"/>
-      <note number="7" values="6" ticks="312" durationTicks="13" ppq="96" velocity="0.762"/>
-      <note number="8" values="18" ticks="335" durationTicks="15" ppq="96" velocity="0.759"/>
-      <note number="9" values="18" ticks="358" durationTicks="23" ppq="96" velocity="0.812"/>
-      <note number="10" values="5" ticks="382" durationTicks="38" ppq="96" velocity="0.797"/>
-      <note number="11" values="5" ticks="432" durationTicks="47" ppq="96" velocity="0.769"/>
+      <note number="1" values="5" ticks="43" durationTicks="22" ppq="96" velocity="0.832"/>
+      <note number="2" values="6" ticks="68" durationTicks="45" ppq="96" velocity="0.847"/>
+      <note number="3" values="4" ticks="116" durationTicks="14" ppq="96" velocity="0.802"/>
+      <note number="4" values="4" ticks="138" durationTicks="13" ppq="96" velocity="0.814"/>
+      <note number="5" values="4" ticks="164" durationTicks="37" ppq="96" velocity="0.837"/>
+      <note number="6" values="6" ticks="212" durationTicks="19" ppq="96" velocity="0.757"/>
+      <note number="7" values="6" ticks="236" durationTicks="13" ppq="96" velocity="0.762"/>
+      <note number="8" values="18" ticks="259" durationTicks="15" ppq="96" velocity="0.759"/>
+      <note number="9" values="18" ticks="282" durationTicks="23" ppq="96" velocity="0.812"/>
+      <note number="10" values="5" ticks="306" durationTicks="38" ppq="96" velocity="0.797"/>
+      <note number="11" values="5" ticks="356" durationTicks="47" ppq="96" velocity="0.769"/>
     </notes>
   </exercise>
   <exercise number="3">
@@ -54,14 +54,14 @@
     <tonalities>1</tonalities>
     <video name="15-wellerman-galinha-3.mp4" size="1762146" type="video/mp4" volume="1">8f9ed3d40ff209f7e447e71378283b6c19d2cc1a304de04b88a3a6fd21f326c0</video>
     <notes>
-      <note number="1" values="5" ticks="105" durationTicks="21" ppq="96" velocity="0.832"/>
-      <note number="2" values="1" ticks="127" durationTicks="38" ppq="96" velocity="0.847"/>
-      <note number="3" values="1" ticks="176" durationTicks="41" ppq="96" velocity="0.802"/>
-      <note number="4" values="1" ticks="224" durationTicks="44" ppq="96" velocity="0.814"/>
-      <note number="5" values="3" ticks="273" durationTicks="46" ppq="96" velocity="0.837"/>
-      <note number="6" values="5" ticks="319" durationTicks="33" ppq="96" velocity="0.757"/>
-      <note number="7" values="5" ticks="367" durationTicks="35" ppq="96" velocity="0.762"/>
-      <note number="8" values="5" ticks="416" durationTicks="41" ppq="96" velocity="0.759"/>
+      <note number="1" values="5" ticks="33" durationTicks="21" ppq="96" velocity="0.832"/>
+      <note number="2" values="1" ticks="55" durationTicks="38" ppq="96" velocity="0.847"/>
+      <note number="3" values="1" ticks="104" durationTicks="41" ppq="96" velocity="0.802"/>
+      <note number="4" values="1" ticks="152" durationTicks="44" ppq="96" velocity="0.814"/>
+      <note number="5" values="3" ticks="201" durationTicks="46" ppq="96" velocity="0.837"/>
+      <note number="6" values="5" ticks="247" durationTicks="33" ppq="96" velocity="0.757"/>
+      <note number="7" values="5" ticks="295" durationTicks="35" ppq="96" velocity="0.762"/>
+      <note number="8" values="5" ticks="344" durationTicks="41" ppq="96" velocity="0.759"/>
     </notes>
   </exercise>
   <exercise number="4">
@@ -71,13 +71,13 @@
     <tonalities>1</tonalities>
     <video name="15-wellerman-galinha-4.mp4" size="1834540" type="video/mp4" volume="1">d5f06eaef203232216264e05246cd01240c940b883634aa72eba3d99d8bf2d76</video>
     <notes>
-      <note number="1" values="5" ticks="85" durationTicks="35" ppq="96" velocity="0.832"/>
-      <note number="2" values="5" ticks="133" durationTicks="45" ppq="96" velocity="0.847"/>
-      <note number="3" values="4" ticks="181" durationTicks="48" ppq="96" velocity="0.802"/>
-      <note number="4" values="3" ticks="230" durationTicks="12" ppq="96" velocity="0.814"/>
-      <note number="5" values="3" ticks="254" durationTicks="22" ppq="96" velocity="0.837"/>
-      <note number="6" values="2" ticks="278" durationTicks="42" ppq="96" velocity="0.757"/>
-      <note number="7" values="1" ticks="327" durationTicks="117" ppq="96" velocity="0.812"/>
+      <note number="1" values="5" ticks="37" durationTicks="35" ppq="96" velocity="0.832"/>
+      <note number="2" values="5" ticks="85" durationTicks="45" ppq="96" velocity="0.847"/>
+      <note number="3" values="4" ticks="133" durationTicks="48" ppq="96" velocity="0.802"/>
+      <note number="4" values="3" ticks="182" durationTicks="12" ppq="96" velocity="0.814"/>
+      <note number="5" values="3" ticks="206" durationTicks="22" ppq="96" velocity="0.837"/>
+      <note number="6" values="2" ticks="230" durationTicks="42" ppq="96" velocity="0.757"/>
+      <note number="7" values="1" ticks="279" durationTicks="117" ppq="96" velocity="0.812"/>
     </notes>
   </exercise>
   <exercise number="5">
@@ -87,13 +87,13 @@
     <tonalities>1</tonalities>
     <video name="15-wellerman-galinha-5.mp4" size="1888081" type="video/mp4" volume="1">ab77e41d8bbb8e3318fd0affad0aaaf5b5e33a7968be48752bcda2a67d4e970d</video>
     <notes>
-      <note number="1" values="18" ticks="122" durationTicks="84" ppq="96" velocity="0.832"/>
-      <note number="2" values="18" ticks="218" durationTicks="71" ppq="96" velocity="0.847"/>
-      <note number="3" values="6" ticks="290" durationTicks="24" ppq="96" velocity="0.802"/>
-      <note number="4" values="7" ticks="315" durationTicks="12" ppq="96" velocity="0.814"/>
-      <note number="5" values="7" ticks="339" durationTicks="22" ppq="96" velocity="0.837"/>
-      <note number="6" values="5" ticks="362" durationTicks="40" ppq="96" velocity="0.757"/>
-      <note number="7" values="5" ticks="411" durationTicks="69" ppq="96" velocity="0.812"/>
+      <note number="1" values="18" ticks="74" durationTicks="84" ppq="96" velocity="0.832"/>
+      <note number="2" values="18" ticks="170" durationTicks="71" ppq="96" velocity="0.847"/>
+      <note number="3" values="6" ticks="242" durationTicks="24" ppq="96" velocity="0.802"/>
+      <note number="4" values="7" ticks="267" durationTicks="12" ppq="96" velocity="0.814"/>
+      <note number="5" values="7" ticks="291" durationTicks="22" ppq="96" velocity="0.837"/>
+      <note number="6" values="5" ticks="314" durationTicks="40" ppq="96" velocity="0.757"/>
+      <note number="7" values="5" ticks="363" durationTicks="69" ppq="96" velocity="0.812"/>
     </notes>
   </exercise>
   <exercise number="6">
@@ -103,15 +103,15 @@
     <tonalities>1</tonalities>
     <video name="15-wellerman-galinha-6.mp4" size="1838330" type="video/mp4" volume="1">41ae638209ee9e0594da89c5a44b7ac744596c82b5a730c19da8c268464837a5</video>
     <notes>
-      <note number="1" values="5" ticks="92" durationTicks="24" ppq="96" velocity="0.832"/>
-      <note number="2" values="6" ticks="116" durationTicks="48" ppq="96" velocity="0.847"/>
-      <note number="3" values="4" ticks="164" durationTicks="38" ppq="96" velocity="0.802"/>
-      <note number="4" values="4" ticks="212" durationTicks="12" ppq="96" velocity="0.814"/>
-      <note number="5" values="4" ticks="237" durationTicks="22" ppq="96" velocity="0.837"/>
-      <note number="6" values="6" ticks="261" durationTicks="40" ppq="96" velocity="0.757"/>
-      <note number="7" values="18" ticks="308" durationTicks="47" ppq="96" velocity="0.812"/>
-      <note number="8" values="5" ticks="357" durationTicks="35" ppq="96" velocity="0.812"/>
-      <note number="9" values="5" ticks="405" durationTicks="62" ppq="96" velocity="0.812"/>
+      <note number="1" values="5" ticks="44" durationTicks="24" ppq="96" velocity="0.832"/>
+      <note number="2" values="6" ticks="68" durationTicks="48" ppq="96" velocity="0.847"/>
+      <note number="3" values="4" ticks="116" durationTicks="38" ppq="96" velocity="0.802"/>
+      <note number="4" values="4" ticks="164" durationTicks="12" ppq="96" velocity="0.814"/>
+      <note number="5" values="4" ticks="189" durationTicks="22" ppq="96" velocity="0.837"/>
+      <note number="6" values="6" ticks="213" durationTicks="40" ppq="96" velocity="0.757"/>
+      <note number="7" values="18" ticks="260" durationTicks="47" ppq="96" velocity="0.812"/>
+      <note number="8" values="5" ticks="309" durationTicks="35" ppq="96" velocity="0.812"/>
+      <note number="9" values="5" ticks="357" durationTicks="62" ppq="96" velocity="0.812"/>
     </notes>
   </exercise>
   <exercise number="7">
@@ -121,14 +121,14 @@
     <tonalities>1</tonalities>
     <video name="15-wellerman-galinha-7.mp4" size="1711218" type="video/mp4" volume="1">8c99da41f352fc523eef54528f4c562c659a42494f8911eab9a5e821c9be63ce</video>
     <notes>
-      <note number="1" values="18" ticks="109" durationTicks="84" ppq="96" velocity="0.827"/>
-      <note number="2" values="18" ticks="205" durationTicks="46" ppq="96" velocity="0.843"/>
-      <note number="3" values="6" ticks="252" durationTicks="12" ppq="96" velocity="0.795"/>
-      <note number="4" values="6" ticks="276" durationTicks="17" ppq="96" velocity="0.811"/>
-      <note number="5" values="7" ticks="299" durationTicks="14" ppq="96" velocity="0.835"/>
-      <note number="6" values="7" ticks="325" durationTicks="18" ppq="96" velocity="0.756"/>
-      <note number="7" values="5" ticks="347" durationTicks="48" ppq="96" velocity="0.811"/>
-      <note number="8" values="5" ticks="396" durationTicks="45" ppq="96" velocity="0.8"/>
+      <note number="1" values="18" ticks="63" durationTicks="84" ppq="96" velocity="0.827"/>
+      <note number="2" values="18" ticks="159" durationTicks="46" ppq="96" velocity="0.843"/>
+      <note number="3" values="6" ticks="206" durationTicks="12" ppq="96" velocity="0.795"/>
+      <note number="4" values="6" ticks="230" durationTicks="17" ppq="96" velocity="0.811"/>
+      <note number="5" values="7" ticks="253" durationTicks="14" ppq="96" velocity="0.835"/>
+      <note number="6" values="7" ticks="279" durationTicks="18" ppq="96" velocity="0.756"/>
+      <note number="7" values="5" ticks="301" durationTicks="48" ppq="96" velocity="0.811"/>
+      <note number="8" values="5" ticks="350" durationTicks="45" ppq="96" velocity="0.8"/>
     </notes>
   </exercise>
   <exercise number="8">
@@ -138,12 +138,12 @@
     <tonalities>1</tonalities>
     <video name="15-wellerman-galinha-8.mp4" size="1877046" type="video/mp4" volume="1">870a676cddc5f0d4a3727198e18a1e78822ad421cabeb51662ac82761dcc7a78</video>
     <notes>
-      <note number="1" values="5" ticks="92" durationTicks="36" ppq="96" velocity="0.827"/>
-      <note number="2" values="5" ticks="141" durationTicks="46" ppq="96" velocity="0.843"/>
-      <note number="3" values="4" ticks="188" durationTicks="46" ppq="96" velocity="0.795"/>
-      <note number="4" values="3" ticks="238" durationTicks="45" ppq="96" velocity="0.811"/>
-      <note number="5" values="2" ticks="286" durationTicks="46" ppq="96" velocity="0.835"/>
-      <note number="6" values="1" ticks="333" durationTicks="93" ppq="96" velocity="0.756"/>
+      <note number="1" values="5" ticks="68" durationTicks="36" ppq="96" velocity="0.827"/>
+      <note number="2" values="5" ticks="117" durationTicks="46" ppq="96" velocity="0.843"/>
+      <note number="3" values="4" ticks="164" durationTicks="46" ppq="96" velocity="0.795"/>
+      <note number="4" values="3" ticks="214" durationTicks="45" ppq="96" velocity="0.811"/>
+      <note number="5" values="2" ticks="262" durationTicks="46" ppq="96" velocity="0.835"/>
+      <note number="6" values="1" ticks="309" durationTicks="93" ppq="96" velocity="0.756"/>
     </notes>
   </exercise>
 </level>
